@@ -1,0 +1,32 @@
+.login-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.login-logo-image{
+    color: #ff9f00;
+    font-size: 40px;
+}
+
+.login-container{
+    margin: auto;
+    border: 1px solid #777;
+    width: 400px;
+    padding: 40px;
+    border-radius: 25px;
+    text-align: center;
+   font-size: 20px;
+}
+.login-container input{
+    width: 80%;
+    font-size: 20px;
+}
+.signin-btn,.login-register-btn{
+    display: inline-block;
+    width: 80%;
+}
+
+.login-register-btn{
+  background-color: aliceblue;
+}

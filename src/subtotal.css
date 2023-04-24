@@ -1,0 +1,15 @@
+ .checkbox{
+    display: inline;
+ }
+ .span{
+    margin-left: 10px;
+ }
+ .gift{
+    display:inline-block ;
+ }
+ button{
+    display: block;
+    padding: 10px;
+    background-color: #ff9f00;
+    margin-top: 20px;
+ }
